@@ -85,6 +85,11 @@ h2{
 }
 #projects img {
     max-width: 280px;
+    height: auto;
+}
+.support-img {
+    max-width: 10px;
+    height: auto;
 }
 .cards {
     list-style-type: none;
